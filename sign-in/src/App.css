@@ -1,0 +1,11 @@
+.outerbox {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(72, 0, 72);
+}
+
+.taskbar {
+    width: 100vw;
+    height: 4em;
+    background-color: rgb(0, 53, 0);
+}
